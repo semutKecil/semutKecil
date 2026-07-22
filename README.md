@@ -64,7 +64,6 @@
 #### **Junior Programmer** | Datacom Solusindo
 *_(2013 – 2017)_*
 * Began professional engineering career delivering full-stack features using **PHP** Zend Framework and **ExtJS** for frontend interfaces.
-* Collaborated on bug fixes, code refactoring, and database queries under Agile team environments.
 
 
 ### 📁 Featured Projects TBA
