@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Septiyan Herlan 👋
+**Programmer**  
+📍 DI Yogyakarta | 📧 herlanseptiyan@gmail.com
 
-<!--
-**semutKecil/semutKecil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I am A protrammer. TBA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Languages:** Java, Kotlin, Dart, C#, PHP, JS, HTML/CSS, SQL
+- **Frameworks/Libraries:** Spring Boot, Flutter, .Net Core
+- **Tools/Platforms:** Git, GitHub, Docker, k8s
+
+### 💼 Work Experience
+**Programmer** | Datacom Solusindo _(2006 – Now)_
+- TBA
+- Accomplishment or key responsibility using action verbs.
+- Quantify results where possible (e.g., "Improved page load speed by 25%").
+
+### 📁 Featured Projects TBA
+* **[Project Name](Link to Repo)** - A brief description of what the project does. Built with: React, Node.js.
+* **[Project Name 2](Link to Repo)** - A brief description of what the project does. Built with: Python, Django.
