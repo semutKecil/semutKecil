@@ -1,22 +1,31 @@
 # Hi, I'm Septiyan Herlan 👋
-**Programmer**  
+**Software Developer**  
 📍 DI Yogyakarta | 📧 herlanseptiyan@gmail.com
 
 ---
 
 ### 🚀 About Me
-I am A protrammer. TBA.
+Full-stack software engineer with 15+ years of continuous growth in the tech ecosystem. My coding journey started in 2006, hacking CSS to customize Friendster profiles, which quickly sparked a passion for building full-scale web applications. After mastering PHP, open-source CMS platforms (WordPress, Joomla, Drupal), and enterprise frameworks (CodeIgniter, Zend), I transitioned into high-performance enterprise systems. Today, I specialize in architecting robust backends with Java, Kotlin, and Spring Boot, alongside engineering cross-platform app experiences using Dart and Flutter.
 
-### 🛠️ Technical Skills
-- **Languages:** Java, Kotlin, Dart, C#, PHP, JS, HTML/CSS, SQL
-- **Frameworks/Libraries:** Spring Boot, Flutter, .Net Core
-- **Tools/Platforms:** Git, GitHub, Docker, k8s
 
-### 💼 Work Experience
-**Programmer** | Datacom Solusindo _(2006 – Now)_
-- TBA
-- Accomplishment or key responsibility using action verbs.
-- Quantify results where possible (e.g., "Improved page load speed by 25%").
+### 🛠️ Technical Stack
+* **Backend Development:** Java, Kotlin, Spring Boot, Dart, C# .Net, NodeJS
+* **Mobile Development:** Dart, Flutter
+* **Frontend Foundations:** Flutter, NodeJS, CSS, HTML5, JavaScript
+
+### 💼 Career Evolution
+
+#### **Senior Software Engineer / Mobile Developer** | Datacom Solusindo
+*_(2018 – Present)_*
+* Architect and maintain enterprise-grade backend services leveraging **Java**, **Kotlin**, and **Spring Boot**.
+* Design, build, and deploy production-ready cross-platform mobile applications using **Dart** and **Flutter**.
+* Drive performance optimizations, ensuring seamless synchronization between mobile endpoints and backend APIs.
+
+#### **Junior Programmer** | Datacom Solusindo
+*_(2013 – 2017)_*
+* Began professional engineering career delivering full-stack features using **PHP** Zend Framework and **ExtJS** for frontend interfaces.
+* Collaborated on bug fixes, code refactoring, and database queries under Agile team environments.
+
 
 ### 📁 Featured Projects TBA
 * **[Project Name](Link to Repo)** - A brief description of what the project does. Built with: React, Node.js.
