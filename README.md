@@ -66,7 +66,7 @@
 * Began professional engineering career delivering full-stack features using **PHP** Zend Framework and **ExtJS** for frontend interfaces.
 
 
-### 📁 Featured Projects TBA
+### 📁 Featured Projects
 * **[orient_text_field](https://pub.dev/packages/orient_text_field)** - Flutter: A Flutter package that provides orientation-aware text field widgets. OrientTextField and OrientTextFormField are drop-in replacements for the standard TextField and TextFormField widgets with added support for landscape orientation and full-screen editing.
 * **[just_form](https://pub.dev/packages/just_form)** - Flutter: A powerful and flexible Flutter form management package that saves you hours of boilerplate. Get automatic field registration, smart validation (field-level, form-level, and async), built-in state management with pre-built fields, reactive UIs without setState using JustBuilder, and easy custom field support. Build production-ready forms in minutes.
 * **[any_field](https://pub.dev/packages/any_field)** - Flutter: A flexible Flutter input field widget that can display arbitrary content while maintaining the look and feel of a TextField. Particularly well-suited for building custom picker fields that open dialogs for selection (date pickers, color pickers, multi-select, etc.).
