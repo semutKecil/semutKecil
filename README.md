@@ -67,5 +67,8 @@
 
 
 ### 📁 Featured Projects TBA
-* **[Project Name](Link to Repo)** - A brief description of what the project does. Built with: React, Node.js.
-* **[Project Name 2](Link to Repo)** - A brief description of what the project does. Built with: Python, Django.
+* **[orient_text_field](https://pub.dev/packages/orient_text_field)** - Flutter: A Flutter package that provides orientation-aware text field widgets. OrientTextField and OrientTextFormField are drop-in replacements for the standard TextField and TextFormField widgets with added support for landscape orientation and full-screen editing.
+* **[just_form](https://pub.dev/packages/just_form)** - Flutter: A powerful and flexible Flutter form management package that saves you hours of boilerplate. Get automatic field registration, smart validation (field-level, form-level, and async), built-in state management with pre-built fields, reactive UIs without setState using JustBuilder, and easy custom field support. Build production-ready forms in minutes.
+* **MPD Remote** - Flutter: MPD client based on Flutter. Will be opensource soon.
+* **[simple-criteria](https://github.com/semutKecil/simple-criteria)** - Kotlin Spring boot: Simplified JPA Crtieria query used on my company.
+* **[dtc-gateway-interface](https://github.com/semutKecil/dtc-gateway-interface)** - Kotlin Spring boot: Universal TCP interfacing used internaly for my company. usualy used on hotel interfacing.
